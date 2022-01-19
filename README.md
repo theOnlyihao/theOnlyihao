@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Yihao👋
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
@@ -11,7 +11,7 @@
 
 <!-- ABOUT YOU -->
 <hr>
-<h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
+<h3 align="center">I love to code, analyze things, take on challenges</h3>
   <ul>
     <li>🔭 I’m currently working on <strong>Anomaly Edge Detection in Liquefaction Susceptibility Maps</strong> for my Research Co-op</li>
     <li>🌱 I’m currently learning <strong>Geocomputation, Machine Learning, Statistical Modeling etc</strong></li>
