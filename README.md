@@ -56,16 +56,5 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=theOnlyihao&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="theOnlyihao" /></p></a>
 </p>
 </div>
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
