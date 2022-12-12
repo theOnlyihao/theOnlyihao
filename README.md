@@ -13,7 +13,7 @@
 <hr>
 <h3 align="center">I love to code, analyze things, take on challenges</h3>
   <ul>
-    <li>🔭 I’m currently working on <strong>Anomaly Edge Detection in Liquefaction Susceptibility Maps</strong> for my Research Co-op</li>
+    <li>🔭 I’m currently pursuing <strong>MSBA</strong> degree at Bentley University</li>
     <li>🌱 I’m currently learning <strong>Geocomputation, Data Analytics, Statistical Modeling, Machine Learning, etc</strong></li>
     <li>📫 How to reach me <strong>yihaoli@falcon.bentley.edu</strong></li>
   </ul>
